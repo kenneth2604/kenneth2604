@@ -3,7 +3,7 @@
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-I am [Sean](https://linkedin.com/in/seanonuoha/), a quality-focused developer with a history of succeeding in challenging and team-oriented environments. I build scalable solutions for startups using the Flutter, MongoDb, Firebase and any technology I require to deliver results .
+I am [Ken](www.linkedin.com/in/kennethekwealor), a quality-focused developer with a history of succeeding in challenging and team-oriented environments. I build scalable solutions for startups using the Flutter, MongoDb, Firebase and any technology I require to deliver results .
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="240" />
 
